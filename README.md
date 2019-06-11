@@ -1,11 +1,14 @@
 # Costa-Rican-Household-Poverty-Level-Prediction
 
 Project overview:
+
 Can you identify which households have the highest need for social welfare assistance?
 Inter-American Development Bank
 
 Dataset url:
+
 https://www.kaggle.com/c/9840/download-all
+
 https://www.kaggle.com/c/9840
 
 By:
